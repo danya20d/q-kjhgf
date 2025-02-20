@@ -1,0 +1,30 @@
+h1 {
+    color:darkblue;
+    text-align: center;
+}
+h2 {
+    color: Indigo;
+    text-align: center;
+}
+h3 {
+    color: LightSalmon;
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    color: Maroon;
+    text-align: center;
+    font-size: 30px;
+}
+h5{
+    color: MediumTurquoise;
+    text-align: center;
+    font-size: 30px;
+}
+a {
+    text-align:center;
+}
+footer {
+    text-align: center;
+    background-color: SandyBrown;
+}
